@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+  width: 250px;
+  padding: 10px;
+  text-align: center;
+}
+
+button {
+  padding: 8px;
+  width: 100%;
+  cursor: pointer;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
